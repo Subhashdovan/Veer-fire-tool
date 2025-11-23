@@ -7,7 +7,7 @@ from time import sleep
 
 # --- [1] आपकी Telegram Bot की जानकारी यहाँ अपडेट करें ---
 # 🚨 आपको BotFather से मिला हुआ "नया" Bot Token यहाँ पेस्ट करना है 🚨
-BOT_TOKEN = "https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"  
+BOT_TOKEN = "8299002678:AAFbGuQFSNg4fhjEISV66TKTMXHu-TQHPEw"  
 CHAT_ID = "6795520561"                     # आपकी Chat ID
 SCRIPT_OWNER = "VEER CHOUDHARY"            # आपका नाम
 # --------------------------------------------------------
